@@ -1,4 +1,4 @@
-author @t_sanf
+# author @t_sanf
 
 
 import os
